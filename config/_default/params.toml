@@ -22,7 +22,7 @@ sharing_image = ""
 twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
-#   Tojj enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo = ""
 
 # Enable global source code highlighting? true/false
